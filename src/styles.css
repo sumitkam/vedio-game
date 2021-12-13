@@ -1,0 +1,13 @@
+*{
+  font-family:  Roboto, "Helvetic Neue",sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family:  Roboto, "Helvetic Neue",sans-serif;
+  background-color: #151515;
+  padding-top: 60px ;
+  height: 100%;
+}
